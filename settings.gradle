@@ -1,0 +1,2 @@
+rootProject.name='Onlibe Dating'
+include ':app'
